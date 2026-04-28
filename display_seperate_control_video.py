@@ -14,8 +14,8 @@ import os
 # [CONFIG] 시스템 설정
 # ==========================================
 # VIDEO_SOURCE = './destory_structure_video.mp4'
-# VIDEO_SOURCE = './test_video_1.mp4'
-VIDEO_SOURCE = './stop_video2.mp4'
+VIDEO_SOURCE = './test_video_4.mp4'
+# VIDEO_SOURCE = './stop_video2.mp4'
 TEMPLATE_SIZE = 120    
 SEARCH_MARGIN = 100
 CONFIDENCE_THRESHOLD = 0.55  
